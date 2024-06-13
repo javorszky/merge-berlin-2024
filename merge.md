@@ -356,3 +356,132 @@ AI is hype, hype will less
 #### Q&A: did you manage to reuse the audience
 
 Reused the audience, but still customers, because newsletter, "it's us again, hi!" if you're not interested, opt out, otherwise, go here, new stuff!
+
+### talk 4: leah culver: from startup to -> tech giant and <- back
+
+former ios lead at X. maybe hot sauce challenge
+
+three startups with various levels of exit / shut down / etc.
+
+#### how did you come up with the first startup
+
+forums were a big popular thing, there was a website, pounds? pints? something. Microblogging. Concept of following people, ended up selling to blogging company to six apart.
+
+#### then helped co-author oembed / oauth
+
+because they came out from problems with pounce(?), made a public API because folks have asked for it. Needed to have new web standards, super happy dev house, ran into folks, thinking of ways for devs for users to log into third party sites (login with github, login with `<whatever>`), and then paste a link into pounce, and see a little snippet of what would it be.
+
+#### what was the process?
+
+12 people came up with the spec, she came late into the game, she made the first open source library, an actual implementation about it. Taking from oauth -> oembed, adoption. Talk to a bunch of people who they wanted to implement these, and then co-build the things with then. Random convo with youtube person: "you should impmlement oembed" - "what is it?" - "this" - "oh sure, I'll do it"
+
+#### not a dev tool, why are you going for devs?
+
+enablement! people want to interact with stuff
+
+#### how did you approach devs to get them interested?
+
+go to confs, meeting people in person, giving talks, starting newsletters, blogging, working collaboratively, listening to feedback!
+
+#### change between pounce (2007) and now same process today
+
+tools have changed: discord for comms with devs, different conferences, but the underlying principle is the same: communication of ideas, getting people involved. Use the tools at your disposal: have a newsletter, have a community, somewhere folks can reach out.
+
+#### how honest are you with the community? 
+
+if you think you made a mistake, do you tell them, or do you want to make your company look good? Tricky question: everyone's watching, but now it's more fessing up for things. Thanking people for contributing. Impressed how many people want to contribute to things that aren't theirs. "Thanks for paying attention so I don't need to do all of this!"
+
+Be more open, dev open community is welcoming / supporting
+
+#### Devs don't like building on top of APIs as much as back then
+
+based on a quote from an interview. It's a case by case basis. If the product can benefit from external people, use them! There are entire businesses that are APIs. If your website doesn't _need_ an API, should you build it? Balance of "it takes time", vs "potentially not needed"
+
+#### team graphql or rest
+
+don't like graphql, is overkill. Rest api is nice.
+
+#### growth
+
+forums app, but live, topics... ? y combinator, got in, did y comb. [convore](https://www.ycombinator.com/companies/convore)? looking through data: who is using this? Groups of friends, groups of interest ... ?
+
+Already part of IRL social group -> moved it online
+events were big
+and weirdly business users
+
+built a business app, so essentially slack before slack?
+
+#### convore was on irc?
+
+wasn't originally, but meeting people where they were, businesses were irc already on it
+
+convore essentially decorated irc with useful things
+
+look at the toolset available to users at the time
+
+#### b2b software - own customers, wall... is going with an open protocol a better way?
+
+walled garden is a recent trend - can't control the experience of users and ads on open waters, so walled garden
+
+it depends on the context of what you're building, who you're building it to, but try to keep things open
+
+#### would recommend y comb for new people?
+
+100% absolutely recommend y comb, if it's the right time: small team, built something, gaining some traction. Better geared as b2b saas, because it's easy to measure. After 3 mo put in front of investors: before / after
+
+no1 thing is network: batch, previous batch, new batch of fellow founders.
+
+#### how do you use the y comb network?
+
+beta testers are free! they're more likely to use a fellow y comb alum's stuff, honest feedback.
+
+#### solo founder? (at y comb)
+
+Sure, "team" can be the royal "we".
+
+#### how did you find co-founders
+
+For pounce, they found her, she lied "yes I can build it!" and then she did.
+
+Second founder: knew each other before from django community.
+
+Third co-founder from another conference.
+
+#### Tech standpoint: django? Or do a cool kid thing and use a fancy tech?
+
+Spicy question: right now: swift iphone apps... ? The best tool for the job over the tool I know best.
+
+#### swift+apple: still good environment? their relationship with devs?
+
+mixed, they're trying to be a great platform, but on the other side: 30% app store tax. She likes the restrictions, but understands that it's constrained. For ios it's more react native rather than swift. Cross-compatibility and ease of devving in react, or do you need to use native swift?
+
+#### do you like swift as the language?
+
+Yes, nice language, written by folks who have seen other languages.
+
+#### third startup is "breaker"? how? acquisition? ran it for a while?
+
+Started breaker after the podcast "serial / cereal"? Murder mystery story. Podcasting is gonna be huge! More of those great shows, contacted Eric, what do you think of podcasts? He was at soundcloud. Worked on a podcast listening app, but podcast wasn't the next big thing. There are a few big ones, but isn't what they thought, super hard, but plateud.
+
+Raising series A, or ... ? Talked to a bunch of companies about being acquired. Twitter was working on something, covid happened, podcasts weren't being listened to (commute, cars). Twitter is gonna kill clubhouse. Twitter has the audience of thought leaders who command the written words. Wanted to work on twitter spaces, second ios developer, launched it 3-4 years ago.
+
+Never worked on a product that killed the other product. It was fun!
+
+#### what was twitter time like?
+
+the person who printed out source code to show it to elon. She was spared the first layoff.
+
+Linting project -> touched half the codebase -> OMG SHE WROTE HALF OF THE THINGS because Elon's people weren't start.
+
+Printout: 3 people still in SF still writing code. Elon wants to see the code. Do I have to print it out...?
+
+#### better for big co / startup?
+
+It Depends™. Both have good opportunities:
+
+* startup: move fast, do a lot, learn a lot, grow a lot, have to find product market fit
+* big co: slow, not latest tech, may need to go into an office once in a while
+
+#### what are you working on at the moment?
+
+Unemployed at the moment, nothing to sell. :D
