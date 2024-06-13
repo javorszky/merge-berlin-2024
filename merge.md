@@ -485,3 +485,196 @@ It Depends™. Both have good opportunities:
 #### what are you working on at the moment?
 
 Unemployed at the moment, nothing to sell. :D
+
+### LUNCH BREAK
+
+Super confusing
+
+### talk 5: Igniting communities: scaling from zero to one million - jana iris: former director of community hashicorp / investor at TQ ventures
+
+#### How did you get started? background in legal
+
+Did a whole "turn to your partner you don't know" thing which I absolutely hated. Bringin community together in a very authentic way. This was not authentic. Or rather I don't find this authentic.
+
+graduated 2008, no job, moved home to sf, first tech job, engine yard, ror hosting company. got introduced to open source. Hosted meetups, hired some of the contributors, they sponsored hashimoto while he was working on vagrant.
+
+#### Where did hashicorp started?
+
+Ended at 12 mo at 250mm downloads. Hashi folks invited Jana to organise the first meetup when hashicorp was 8. Same same, early users, individual developers, cool kids working at fortune 500 cos, etc and talked to them when terraform was freshly open sourced.
+
+She launched a bunch of community programmes, there wasn't roi, because that's not the point. Verbal and written style guide. Hashicorp brand was pragmatic, prfessional, grammar guide, so same style in customer service tickets, newsletters, blogs.
+
+#### At what point should you hire for a dir of community?
+
+Key early, or later is fine? Usually folks follow a playbook "this is when I need to launch a ____", whereas if you have authentic decisions, that's better because communities are different. Dir of community can be an engineer who's embedded into the community.
+
+#### key attribs for the person to do community?
+
+empathy and authenticity. How do I design a programme based on how people are going to engage with it? Pandemic, at home, break concentration, so 20 minute talks, breaks, recorded... Also no techno, bright lights, at 9am. A brand is also a vibe.
+
+#### community vs devrel?
+
+community with a capital c encompasses devrel, community (small c), etc... sometimes folks think it's just the tactics. At hashi it's a holistic view on how to engage with folks, and then you build programmes around it. devrel activities are different than what a community manager does
+
+#### 5 pillars: (TK look it up) education, knowledge sharing, ... ?? where from?
+
+5 pillars apply to anyone building tools / community for developers.
+
+Education is key, it's important, great docs, tutorials, talks.
+Knowledge sharing is peer to peer. Get other people to talk about hashicorp. How folks use the tools you built? The meetups are useful for this.
+
+#### If you're a new company, getting started, which one should you focus on of the 5?
+
+It's hard, because budget, resources, time... new relic had to give away 90% of the tickets because no one wanted to come, but vcs said you should make a user conference.
+
+#### early customers: how to get first key influencers
+
+series A in 2014: 2 years to get open source adoption. Then they didn't need to worry about monetization. Individual users - elegant tools for them, but commercial users had a different pain points.
+
+Used open source to get into commercial side of things.
+
+#### many touchpoints to gain trust, one to destroy it
+
+devs have a set toolkit. To get someone to trust your thing to try your thing, it requires a lot of trust and work. Tried to look bigger and more professional than they actually were. They wanted people to know that they'll be around in a while. Adopt a technology and they go under in a year, what's the point?
+
+#### how do you destroy developer trust?
+
+first user conf, 350 people came. They didn't treat them as leads, created lasting relationships with them, they because core contribs, employees, biggest customers.
+
+building community -> monetization -> sending emails, becoming pushy -> hurting goodwill.
+
+#### social media: thoughts on how to leverage it in 2024?
+
+lot of news from newsletters. twitter, hackernews, reddit... you have to change, but twitter is still a dev haven apparently.
+
+#### what's the point of the volume of stuff you're done?
+
+It's expensive: you need a team, costs associated with it. But the reason: create channels for useful feedback, you want people to talk to you, to share, to have empathy. Plus the more people talk about you, the better.
+
+#### early adopters are fine to start, but how to make them stick?
+
+product market fit. See railway, the way he's built the devex, you need the a-ha! moments! The "I understand what you're doing!" moments.
+
+Very quickly need to understand what the product is, how to get started. You should know where you are, where to go next, every 2-3 minutes there's an a-ha moment.
+
+#### how do you start the communication to the communities?
+
+first 2 years founders spent the majority of time on planes, they knew the first 1000 users by name. Going to meetups, being active on twitter. She hand wrote notes and sent them along with stickers to folks who wrote about hashicorp (blogs or whatever).
+
+If you don't think of community as a lead gen, you can build a good community.
+
+#### talk about the hashicorp licence change
+
+what did the licence change feel like? she wasn't there for this already. IPO: "thank you for our open source community" on a huge billboard at times square. How the tools took off _because_ the open source.
+
+at the same time, hashi wasn't the first who did change their licence: mongo, etc...
+
+At the end of the day it was rug pulling. "I thought I was contributing to an open source thing, but you're no longer that"
+
+Even though 99% people weren't impacted, but it still hurt the dev trust
+
+#### How could this have been done better?
+
+The way they communicated the change was fucked up, so the change made sense, but the communication was shit. Key people should have been notified first, and then rolled out slowly.
+
+#### what's an advice for new founders
+
+marketing or product? You need to have product market fit: if the product isn't found or isn't immediately usable on what it's for
+
+Authentic: want to solve their problems.
+
+#### Q&A: biggest mistake that instantly alienates a community you've seen
+
+So many... rug pulling, hurting developer trust. Leah was talking about the apple ecosystem, she likes the 30%, but ... is it?
+
+#### Q&A what do you do when the community manager leaves? How do you not hinge everything on them?
+
+Devrel may build their own personal brand as well, so there needs to be someone who wants to build the company brand as well: involve engineers as well. Not just have one person that links company to community. The community person's job is to draw links between company and community.
+
+### talk 6: Robby Russel: oh my zsh(it): bringin delight to the cli
+
+pretty much everyone is familiar with oh my zsh. Contributions from 2400 contributions, 2600 forks, lots of stars... (vanity metrics). Business model: make no money
+
+How did it get started? Maybe it'll save time.
+
+* How do you pronounce it?
+* how did you think of it? What inspired you, what motivated it?
+
+Ruby on Rails introduced him to zsh (the shell) instead of bash. Trading and sharing little snippets and stuff on irc and pasty.
+
+Most of the people used bash.
+
+> Hell is other people - Jean-Paul Sartre
+
+I like using cool shit. Carlos likes to understand why shit is cool.
+
+Robby understood 30-40% of the config file.
+
+zsh config file, clean up, documentation.
+
+git init -> moved into small messy files -> ??? -> switched to zsh
+
+Next step:
+
+> How do I change the colors?
+
+What are you taling about, I have the best color pallet, this is beautiful.
+
+Okay, so he walked him through this how to modify the prompt.zsh
+
+so themes started to be a thing to deal with git conflicts. same with plugins.
+
+reach out: hey it's cool, but it assumes ruby, how do I handle python?
+
+So they moved the ruby stuff into a directory. So 70+ plugins and 100+ themes got added from others.
+
+There are 353 PRs at the moment. Most are from first time contributors.
+
+#### Why was this successful?
+
+Theories:
+
+* incredibly easy to try. Immediately looks great
+* not intimidating: just a dollar symbol the default. zsh: more info, junior devs know what's happening
+* continuous updates: cli updated itself via git, which was cool, no versioning system
+* perfect timing, just popped up when git was a thing, and people started using playgrounds more and more
+* word of mouth, people seem to like it. Folks are constantly writing articles about it, but also content to NOT use it
+* luck
+* maybe because of robby himself? been releasing projects for over a decade, so he knew how launching stuff works
+
+#### Lessons learned
+
+1. vision not required. There was no plan, no inspiration. Motivated to convince like 4 other people, because it would be convenient.
+1. build playgrounds, a friendly space for the community to experiment. Welcomed ideas from community, it was ours (community's), not his
+1. packaging matters. Sharing dotfiles is easy, but he added a bunch of extra, called it something, put a lot of effort to make things look more official.
+1. curate is more important than creator for him. If folks are pitching, you need to figure out how that's gonna impact users. Need to develop a sense of taste. Figure out what should be incorporated into the core project vs plugin / theme.
+1. always notice the helpers, and appreciate the contribution, regardless of whether you're accepting the change or not
+1. collaborators need vision, so you do need to figure out what the vision is: junior developers are the target user base, and then once that was clarified, then collaborators can be invited.
+1. solve problems, obviously. Sustainability and easy maintenance are super very very important. Obvious practical solutions on regular basis
+
+He gets paid to untangle complicated but really clever things.
+
+When he created, he didn't think it would become this big, he just wanted to make the workday easier. It was an internal tool that got shared with the world.
+
+#### The future
+
+meant to make the work easier, productive, delightful. Contributions, no matter how small or uninspiring, can be a big impact.
+
+[maintainable.fm](https://maintainable.fm)
+
+
+#### Q&A: do you think oh my zsh helped zsh adoption leading to apple adopting zsh as default?
+
+Google trends. ZSH core devs don't like omz because folks confuse the two. It was surprising that apple announced zsh to be default. Don't think it _lead_ to this.
+
+#### Q&A: editor, customization of?
+
+VSCode, obscure called jo, no idea how to use emacs. Not super elaborate customization of code.
+
+#### Q&A: how do you ensure that a change in plugin is correct?
+
+Got an email from nasa, security people: can you confirm if people from these countries contribute code? Dunno, not got paid enough for this. Docker, run tests, conscious about checking the code, but there's a lot of tooling or testing that exists.
+
+#### Q&A: what fundamental early decisions shaped?
+
+Not taking itself too seriously. It has a personality. Very on the hook on how to talk, but omz is its own thing, so he can play with it instead of worrying about clients / customers.
