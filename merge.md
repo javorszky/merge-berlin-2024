@@ -790,3 +790,111 @@ Floppy disks, only 2 programmers, so when they were working on stuff, they worke
 
 ### talk 2: fireside chat with jay simons: from startup to IPO, the atlassian journey
 
+Hot sauce challenge. Dipping pretzels into it.
+
+Github office, piano, Jay Simons, playing piano in Rangoon, Burma. Almost every day playing piano.
+
+GitHub and BitBucket (Atlassian) is... hm...
+
+Fight hard with respect.
+
+Celebrate the accomplishments of a competitor.
+
+#### Atlassian had hipchat, which got sold to slack. Why did you sell a product that was doing fairly well?
+
+Not doing well enough. Hard to admit defeat, and had a friendly relationship with slack. Respectful competition: never bad mouthed them, never been jerks to them.
+
+To Slack: We wanna exit the chat thing from hipchat, we have customers where they picked hipchat over slack. Deal was made, path forward was found.
+
+#### There was a conversation for Atlassian to acquire GitHub
+
+They debated it internally for a couple of months. Atlassian wanted to, tried to get GitHub.
+
+#### Atlassian early days, similar trajectories, both bootstrapped, big rounds much later, didn't need it
+
+Atlassian went IPO, GitHub went MS. How did the trajecotry come about? Came from Mike and Scott, founders of Atlassian, who've not worked in a different company, they founded it in college. The curiousity of "is this the best way"? Culture of "why are you doing it THAT way?" is it an always done it that way, or have you really thought about it? That culture led to processes, pricing...
+
+> They are struggling with the hot sauces :D
+
+#### Rethink enterprise sales
+
+Threw everything away and rethought sales. No sales until 2014 or 2015. Low pricing, so you don't need to ask boss, flywheel of dev sales. If you were a huge enterprise with unlimited thing, $3500 max per year. Anything above you would have needed sales people.
+
+No need for sales brokerage. As sales, you want to put friction between customer and product, pre-qualification, etcetc.
+
+Ethos: get out of the customer's way, let the product sell itself, do not add friction.
+
+#### First principles: were there things where this failed?
+
+Lots of organisational building and HR. At some point they didn't have titles, but at some point it got confusing. You were "head of ...", at some point that got "global head of ..."
+
+Having titles is kind of useful for an org above a size. Hiring got hard without titles too.
+
+At github they also wanted to throw away titles, because it didn't matter to founders, but other folks told them that it did matter.
+
+#### Bootstrapped, but investor now, so clearly see the value injecting money
+
+Should a new company bootstrap, ask for VC? Why? Why not? If you can bootstrap, why wouldn't you? Do it! Don't need to take a mortgage out on the company (VC money) if you don't have to, because you retain ownership. No primary equity for investors before IPO. Atlassian founders at IPO had 80+%.
+
+VS raising money all the time rather than building product, then founders end up with single digit ownership %.
+
+A lot of software, especially dev tools businesses, it's a totally reasonable path to not need a lot of money to build something of value, so it gets to profitability.
+
+Measuring _everything_, marketing, open a japan office, what's the ROI of whatever? A lot of companies flush with capital just spend a bunch of capital without thinking about it.
+
+Zero interest rate created a mentality that money gets spent, and when you run out of it, just ask for more and you'll get more.
+
+#### IPO stats? ARR stats?
+
+15 mil profitable 80 people
+IPO: 6000 people, 3 bil profitable.
+
+#### How do you maintain culture?
+
+> hot sauce: Scott: "I've done this a couple of times because I'm not smart
+
+Office was fun. Atlassian offices are fun in SF. How did you go from 80 people to 6000 people to keep trust / fun?
+
+Hire carefully: wanted to hire people that were different in the right ways, but same in the other right ways. If you grow, you wanna retain "the best times."
+
+Talked about not wanting to be the same company at different sizes, so you need to change the company for different sizes, so the holiday party won't work at 300 the same as 100 people.
+
+Open company no bullshit, so no executives know one thing, everyone else know a different thing.
+
+Hipchat, made them insiders, so they can tell material non-public information: before hipchat was sold, told employees, about 300 people, "can't guarantee you'll have jobs, but trust us that we'll do our best to take care of you."
+
+#### One of the other values is "don't fuck the customer"
+
+What does this mean for the company of 6000? Live through examples, and reinforce them.
+
+Atlassian doesn't discount for anyone which is weird for enterprises. Customers expect discounts, but no. Reason: if we give you a discount, then we're effing every other customers. Same with contract terms that are the same across all customers.
+
+#### Inestor later stage
+
+Advice: what are the biggest things other companies can learn from atlassian?
+
+Culture matters: why do you do things you do? Value systems. Effect on the poeple you hire. Reinforce the type of people joining the company.
+
+The earlier you build a system that can self replicate, the better, when it comes to a size where the founders aren't connected to.
+
+#### Q&A: now that you're wearing the venture hat, how is it different from operating a company
+
+Investing is lonely. It's more like a swim team than a soccer team. Feedback cycle when operating a company is so short, investing is 5-7 years.
+
+Scott: interesting to see the 10 different
+
+#### Q&A: What was the secret sauce that made JIRA won than competitors
+
+Faster, better, cheaper, and if you're all three, you might not still win, but pick one and attack the competitor on that. If competitor is slow, be faster. If competitor is expensive, be cheaper.
+
+#### Q&A: Bitbucket or GitHub, which one is your fave?
+
+Not answered :D
+
+#### Q&A: RTO?
+
+Atlassian is a remote first company now. It's 10k employees, the notion of being in an office is different. Old fashioned: young company: same place, same time. Atlassian would not have existed without in-office starts. Got to know the people, care about the others. Like the advantages of working from home, but it can turn your job into something that's transactional and soulless.
+
+The glue that helps build a company happens in-person.
+
+
