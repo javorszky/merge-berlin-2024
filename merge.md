@@ -678,3 +678,89 @@ Got an email from nasa, security people: can you confirm if people from these co
 #### Q&A: what fundamental early decisions shaped?
 
 Not taking itself too seriously. It has a personality. Very on the hook on how to talk, but omz is its own thing, so he can play with it instead of worrying about clients / customers.
+
+## day 2
+
+### talk 1: the early days of id software: programming principles by john romero
+
+they wer in their twenties, not known limits. Lots of arcade gaming. apple ][ computer.
+
+sophomore in high school, 15 yo, software stuff for the air force. classified stuff. he made 74 games, 3 games companies: capitol ideas software, inside out, ideas from the deep, he was 21.
+
+softdisk: gamer's edge. Then john carmack, adrian carmack (no relation), tom hall, plus john romero, each made games on their own. Dangerous dave in copyright infringement. Smooth scrolling on PC, big eureka moment.
+
+Made super mario 3 on pc, nintendo didn't publish on pc, so they reused the tech for commander keen.
+
+pc has been out for 9 years, no one has done the smooth scrolling.
+
+Cmdr Keen led to the concept of game engines. They were engines operating on different data. So keen 4 dev they also licenced the engine to others.
+
+id software founded feb 1 1991
+
+shadow nights, keens, catacomb, tiles of the dragon, rescue rover,s , dangerous daves
+
+#### Core principles
+
+##### No prototypes
+
+Came up with the idea -> made the game. No prototypes. Make game, polish as you go, don't depend on polish happening later, always contain constantly shippable code.
+
+##### Always run
+
+Bulletproof your engine by providing defaults upon load failure. It's incredibly important thatt your game can always be run by your team.
+
+MIssing sprite? -> show bagel
+missing soundtrack? -> play something obviously wrong
+
+##### Keep your code absolutely simple
+
+Keep looking at your functions and figure out how to simplify further
+
+##### Great tools help make great games
+
+Spend as much time on tools as possible.
+
+Made a TED - Title Editor, 33 shipped games.
+
+> Wolfenstein 3d took 4 months to shareware (1 episode), additional 2 months for the rest of the story + handbook.
+
+##### Own the testing
+
+Don't waste other people's time, test thoroughly before checking your code, only the team should see bugs or see the game crash (lol).
+
+##### See a bug? Fix it immediately
+
+If you don't immediately fix a thing, new code is based on buggy code.
+
+##### Use a dev system that is superior to your target
+
+Dev DOS -> Game DOS, before doom.
+
+Dev: NEXT workstations -> game dos: for doom.
+
+> Had to learn the hardware of nintendo, so it took us 3 weeks to rewrite wolfenstein 3d for nintendo.
+
+Quick story 2: On a couple computers the game froze, but everywhere else it ran. Fix was found, the bug was in the game from the start. Something about the menu and game stopping.
+
+9 devs on quake.
+
+##### Write for this game only, not for future games
+
+YAGNI. Future games you'll be smarter.
+
+##### Encapsulate
+
+Functionality encapsulated to ensure design consistency, this minimizes mistakes and saves design time. Torch is an entity that is made up of the geometry, fire, sound.
+
+> Quake found the Pentium FDIV bug :D
+
+##### Code transparently
+
+Tell them how you're going to solve problems, do not treat solutions as black boxes. The project would go off the rails and cause delays.
+
+If you're working on a bug for more than 20 minutes, tell someone else.
+
+> 40 minutes, "I can't fix this, so here's what's happening...", other person halfway through the sentence told him what the issue was.
+
+### talk 2: fireside chat with jay simons: from startup to IPO, the atlassian journey
+
