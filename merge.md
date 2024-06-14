@@ -762,5 +762,31 @@ If you're working on a bug for more than 20 minutes, tell someone else.
 
 > 40 minutes, "I can't fix this, so here's what's happening...", other person halfway through the sentence told him what the issue was.
 
+##### Q&A: what was the challenge for with side scrolling
+
+was EGA, was frame buffer, EGA it was 1 byte for 8 pixels, but 4 bits stacked in memory, VGA instead 1 byte -> 1 pixel.
+
+8 pixel scrolling was the norm. unless you had the documentation, in which case you knew about CTRC to set the offset, which bit in the byte you wanted it to.
+
+##### Q&A: how do you feel about people running doom on any and all hardware
+
+Doom on Fridge :D. Pregnancy test, tesla, piano, bacteria...
+
+##### Q&A: fave game of the ones you created
+
+DOOM: still creating games for it, Sigil 1 and Sigil 2, the original 1993 doom. Source ports. Working on Hellion, new Doom 2 pack (32 levels).
+
+New FPS, 60 people, unannounced yet.
+
+##### Q&A: how did you come up with the idea of shareware?
+
+Wasn't their idea.
+
+1987 the origin, when they released keen 1990 as shareware, the publisher was a shareware pioneer (apogee). You need to have three games, in episodes, first episode as shareware, fully free, cliffhanger, so they want to buy the continuing. Today's Free to play is shareware, and mtx is the rest. Or DLC.
+
+##### Q&A: without vcs, how did you manage working on same things
+
+Floppy disks, only 2 programmers, so when they were working on stuff, they worked on separate files. And then just talked and kept talking with each other.
+
 ### talk 2: fireside chat with jay simons: from startup to IPO, the atlassian journey
 
