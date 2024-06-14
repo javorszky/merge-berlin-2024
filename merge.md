@@ -1269,3 +1269,119 @@ No
 #### Q&A: how to become a tenant in a foundation
 
 In a linux foundation, or commons conservancy: bring together people, write a charter, how they're going to be voted in, what their responsibilities are, that paper gets adopted by the foundation itself, and that's ... that?
+
+### talk 7: devrel and community panel: Jana Iris, Cassidy Williams, David Edoh Bedi, Jonathan Weiss - moderated by Saron Yitbarek
+
+Cassidy: main queen, funny videos, engaging blog posts, tech content, courses, live stream, etcetc.
+
+Biggest ROI from the content: financially or in general?
+
+General, in engagement: newsletter probably the biggest one. Started doing because huh it would be kinda cool to provide resources, but led to discord. Interested in similar things, return is in people relationships. Newsletter since 2017, 17k subs.
+
+David: devrel is new to you: how important is engineering background?
+
+Helpful, being an effective dev advocate helps to have the engineering empathy, to know how engineering works, but people follow different paths. Former stripe coworker got psychology, then bank, taught how to code, then dev advocate. David started at Microsoft engineering, but passion was talking to users, customers, got to go to toshiba installing windows, kenya, rescue place keeping data in azure, etc. Pure engineering wasn't enough.
+
+If you like coding, and talking to people, you don't need engineering background.
+
+Jana: empathy, helpfulness is useful. Empathy towards the problems. Working to solve people problems and dev problems is the lasting one.
+
+Jana: community and dev relations, now investor, so... must be great for the portfolio companies. Where do companies struggle?
+
+Still impressed that everyone is still here. Lot of community events, but this one was special. Also multiple people mentioned she didn't drink the wine, but now she is.
+
+After hashicorp, she started angel investing, joined a fund, joined a venture, suddenly had to understand businesses, had to take classes, etcetc. 500mm usd fund, early stage (seed) fund.
+
+Founder-product fit, early customer love, how big can the business be?
+
+Saron: How do startups deal with devrel?
+
+Jana: people apply the same playbook, but maybe sometimes you don't need a separate devrel person, sometimes an engineer talking to others can be enough.
+
+Cassidy: some startup advising: you don't need a dev advocate, you need a tech writer.
+
+Saron: John, AI, is useful, but don't want to be replaced, anxiety and excitement, how do you manage it?
+
+John: Lots of excitement, and empathy. AI will not replace, but will be a tool to accelerate dev stuff. Lots of questions about privacy, control in conversation with customers. Important to build products that customers want.
+
+Saron: does AI have empathy?
+
+John: depends on how you build these systems. It's a core tenet. Customer trust is critical. If you build systems with trust and security in mind, that is good.
+
+Jana: software development: how much is actually coding? Sometimes it's writing an RFC, sometimes it's talking to people.
+
+John: what's the problem to solve? Implementing the thing is the least of the problems, but figuring out what to implement is the most important. The human part isn't going to go away. GenAI is going to help with the implementation, but the thinking of what to implement is importanter.
+
+Saron: David, social media is important, but you're not... really active on there. How do you keep tabs on stuff?
+
+David: one of the lurkers, listening, reading. Lot of 1:1 convos with people. At stripe there are a lot of surfaces to talk to users to figure out what's happening. Then there's youtube, launched a new forum to interact with users, hackernews, etc... the usuals.
+
+Lot of social media happens through the stripe channels. Made a new video of a new stripe feature. Passion is talking to people. One of the programs is a developer advisory board: meet once a month, chat with product teams, from the early drafts, get feedback.
+
+Jana: hot take!
+
+Cassidy: most of the good dev rels aren't even on social media. If you have empathy, you don't need social.
+
+David: yeah, if you go to events like this, talking to folks, you'll figure out what people want, and then feed back to product teams.
+
+Jana: having your own personal brand, online presence is important. Jana's own identity was hashicorp. Even having a website, or a tagline is helpful. When you are looking for a job, having a strong personal brand makes it clear what you want.
+
+Saron: John, wanna go back to you. How do you deal with competition? AI tools is such a huge competition area, how do you stand out?
+
+John: there are different niches for the software dev lifecycle. How can we work with you to help with AWS? We're looking into how we can solve problems people have? How do I get started with aws? Which services do I pick?
+
+Customers who are looking at aws already are good, but they want to help develop software.
+
+Going to events is important to figure out what people need, what people are struggling with.
+
+Cassidy: funny story: aws services, there are so many of them: how many of these are actual aws services? actual employees of aws didn't score high.
+
+Saron: Cassidy: if you're developing a dev tool, for marketing, there are so many places you can go to, where do you start?
+
+Cassidy: I need to reach The People, because that doesn't work. Targeted, use your existing networks. Niche it down, find them, target. They might be on a subreddit, mastodon, whatever. Start with specific places first, build trust, and then grow from there.
+
+Jana: everything is crowded, kubecon, all signage was the same, everything was buzzwords. In order to stand out, your messaging needs to be unique, push the boundaries, but companies are kind of afraid to do that.
+
+Cassidy: chat with friend who is an seo person: you do wanna stand out, but you want to ride the hype-wave.
+
+Saron: Jana: what would have stood out?
+
+Jana: OLLAMA: white booth with an ollama paris illustration, and nothign else. No words. That stood out from the black and white text.
+
+Hashicorp: no cutesy mascots, no ball pits. Defensive luxury. GitHub had octocat.
+
+Saron: Cassidy: if you do so much advising, serious, funny, playful... , how do you do decide which one to be?
+
+Cassidy: lean into your strengths. If you're not a funny person, that's okay, don't try to be. Don't psuh into a direction that you're not. If you fake it too much, it's gonna be uncomfrotable, and folks are gonna expect that.
+
+Supabase: you're funny, you should be funny. Lean into the memes! And users love it! If that's your vibe, lean into it!
+
+Jana: hashicorp brand were based on the founders. Organizing hashicorp europe in 2016, they had lights, fog, smoke. Mitchell's understaded. Arman is persian, flashy. Fog, lights on stage worked differently.
+
+David: it's something they're trying to do at stripe, need to be buttoned up, serious. experimenting with new things. let the creativity shine through. Reason for experimentation: viewership stagnated.
+
+Cassidy: if the team gets to a point where they want to try becoming a personality, and the company is big enough, then they can lean into it, because that was the team strength.
+
+John: AWS is a serious company, but recently an internal team built an internal thing, which is pocket ___, decided to launch with a different brand, because it's a different vibe. Lean into the funny, forgo the AWS default. Don't delute the main brand, but explore.
+
+Cassidy: guidelines are good, but experiment.
+
+Saron: David, you work at stripe, well know, what is there to do in devrel?
+
+David: good Q. There's a lot, when you do devrel at a company the size of stripe, a lot of work ends up being external. Meetups, etc. H2 work, prioritization: what's the biggest bang for the buck? They take care of all the example code, they're trying to figure out what to keep, what to deprecate. Just building tight relationships with internal teams. At stripe size, some people don't understand what a devrel team does.
+
+The forum: insiders.stripe.dev. Dev teams: struggling to get cohorts of people to run betas to figure out who to invite to things. So forum to invite folks, so devs can invite them.
+
+New products all the time.
+
+Part of the job security is that you have to keep creating content for the new content.
+
+Saron: whole panel: how much harder it is to be a dev than a couple of years ago, there's RTO, no one's hiring, mass layoffs, etc... how do you talk to devs to try your shiny new things, while being mindful what's going on.
+
+John: how is this going to make their life easier? Not trying to sell, but trying to solve a problem, so empathy: we hear you, we wanna make your life better, use this! This is how it's ognna help you sell a thing for leadership.
+
+Jana: Sad when conferences end, plug: next thursday, beer garden with scott.
+
+Cassidy: if you're trying to get devs to use your tools, figure out how to make it a portfolio item for them. give them a leg up.
+
+David: no sales angel to it. Come to conferences to talk to the people, awareness, sometimes people just left their job. Being there, listening, offering help when they can.
