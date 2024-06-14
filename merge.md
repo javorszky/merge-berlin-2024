@@ -998,3 +998,274 @@ Yes, probably they'll win out in the end. Newsletter space there's still hope. B
 #### Q&A: federated platforms like mastodon or discord?
 
 Most users don't care about the underlying technology, ultimately it doesn't matter where they are.
+
+### talk 4: Unleashing Open Source: The Power of Community-Led Growth in Go-to-Market Strategy by JZ Zhang
+
+How do I get more eyeballs on my open source project?
+
+And I'm resource constrained...
+
+JZ: [charm.sh](https://charm.sh), went from 10k -> 100k stars.
+
+#### Go to market approaches
+
+1. Enterprise: Top down, big contracts to IBM, etc...
+1. partner sales: rev share model
+1. PLG (product led growth): self service, add credit card, lower cost, notion, airtables, zoom, etc
+1. FOCUS: community-led growth
+
+Open source community is the secret sauce to this. Opinionated, engaged, passionate individuals. Some of them are non-technical users.
+
+There's a finesse to handling them well. Three case studies on some approaches that they've done well.
+
+#### case study 1: charm
+
+graph showing 4: bubbletea, gum, vhs, and glow. gum and vhs goes straight and narrow from 0-10k stars. Lot of luck, but intentional.
+
+Playbooks on how they honed this, how to recreate this for new projects:
+
+##### Gum
+
+Feedback. Charm's libraries were written with Go. Users who are not Go devs: Can you create some CLI tools that are not Go based?
+
+Hence gum. Language agnostic thing.
+
+1. week of launch: prep good docs, readme with examples
+1. thursday 9am pst (important): launch to friendly subreddit communities (engaged, honed in, been there for months! not cold) r/cli, r/unixporn, r/golang
+1. 10am-12pm :announce on discord, youtube video, linkedin, twitter. Owned and operated spaces.
+1. engage engage engage with everyone! answer questions, respond to replies
+1. end of the day: hit top 3 across all 3 reddit forums, end of 72 hours: global github trending top 3
+
+##### Trials
+
+Finding your audience = trial and error. 9am pst was honed in, so noon, 8am, 10pm were all tried.
+
+Tried hackernews, after a couple of times they were shadowbanned a few times, so ... hn is off limits.
+
+Partnering with other companies, like GitHub. IRL event in GH HQ, lots of devs turned up. charm gave away mechanical keyboards and rubber duckies.
+
+X developers collab on twitte spaces.
+
+collab with tailscale.
+
+try to find out what makes sense, but not every company will be a fit.
+
+##### Results
+
+After the playbook notes were hit:
+
+* Julia Evans reshared it (ceejbot tweet)
+* Gregkh shared it
+* Go weekly newsletter, banner
+* GitHub youtube video about it
+
+Luck: Tweet about tagging github global trending, went viral, but this was luck. Can try to recreate it.
+
+##### Takeaway
+
+Already made playbook with lots of trials, there's a push / pull. You need to find your own playbook through your trial / error.
+
+#### case study 2: supabase
+
+open source firebase alternative. YC alum.
+
+Launch week: every 3 months, hosted event, ship a new major feature every day.
+
+Then community led meetups since 2 years ago. It's _only_ commnuity led, no supabase person organising it. Around the world! Wait, no active supabase team members at these events?
+
+Supabase world tour: kinda like Swiftie.
+
+Meetup attendance: tokyo couple dozen. Nigeria: couple dozen. And then a few dudes streaming in NZ.
+
+##### Takeaway: IRL is back
+
+generate opportunities for your community to meet in person, even hosted by them
+
+it will in fact make them supa-fans
+
+#### case study 3: vercel
+
+cloud platform, creator of next.js
+
+Secret sauce to community led growth: building high quality demos (!!)
+
+super forkable, really easy to get started. Try it, buy vercel, etc...
+
+examples of demos:
+
+* Emoji todo
+* storefront for vercel's merch (you can fork it and get started with your own merch store)
+* gemini AI chatbot
+
+How did you think of the idea of the highly polished demos?
+
+Guillermo was in tokyo, he was demoing: "oh yeah, our data servers are in east coast US". Audience was starstruck, deals were closed (servers far, thing still fast).
+
+Community engagement for vercel:
+
+* lots of videos about "thing with vercel" - th3o.gg, beyond fireship, developers digest
+
+3 companies funded from templates: julius for example
+
+##### Takeaway: spend extra time to produce demos, make it with forkability in mind
+
+Users will share, users will want to use it, users will make content about it
+
+#### Recap
+
+community-led growth as go-to-market is good
+
+charm, supabase, vercel (see above)
+
+[JZ](https://twitter.com/jzmusings) left charm, and will be using the strategies going forward.
+
+If you're considering starting a company:
+
+> Life isnt' how to surfvive the storm, it's about how to dance in the rain" - vivian greene
+
+#### Q&A: how do you launch multiple times if you have one product
+
+The trial of error only works if you have multiple products. Gum is 20th, so they had 19 others to experiment with. 
+
+#### Q&A: how forgiving were users in the error of the trial and error?
+
+People are opinionated and passionate. People sometimes shred companies for stuff, but if you're intentional, communicating, and care, they are very forgiving and helpful. Maybe it's a luck.
+
+#### Q&A: do you think IRL events is the play now that the twitter feeds aren't the same?
+
+We are at the merge, IRL. You tell me :D.
+
+Scott: Does charm / whatever next, what the playbook would be: online, twitter vs IRL buying people beers or something?
+
+Online is important, depends on the project, capital efficient, people efficient. But IRL is super important. For a very small company, like charm, an IRL event is super challenging / exhausting.
+
+Host community led meetups all over, send beer money (not people), and that's still good!
+
+Both, but mostly online, because efficiency, but wants to incorporate IRL as much as possible.
+
+### talk X: designing open-source orgs for longevity by daniel thompson-yvetot
+
+#### Start
+
+Crab Nebula. Always starts with an idea, two friends. Spend free time making something, underestimate the work involved, don't care. It's ok to give up, don't be alone, don't optimize anything, don't pay for anything, setup branch protection :D.
+
+#### 2. core team forms
+
+Collaborative problem solving, great way to forge friendships. Find out early who you can't work with. Use light consensus, the doers decide, leverage codeowners, choose a licence, chart a vision.
+
+#### 3. working groups then evolve
+
+No room for other people in the core team. That's where working groups form, they have special knowledge about a thing, they have skills, they have drive. Branch protection come in to play here. Many people pull on the same rope.
+
+* Schedule office hours
+* the doers are empowered
+* recruit contributors
+* introduce accountability
+* reduce bus-factor
+* watch mental health
+
+Risk: people come, do stuff, get bored, leave. Accountability introduced: their work unlock the possibility for other people's work.
+
+#### 4. an entity
+
+In the shadows: just do whatever you need to do to keep on working. Open collective for donations, github for project management, discord for communication, and it just kind of works...
+
+##### Non-profit
+
+Aligns closely with the spirit of open source, just a paper tiger.
+
+Tenant in a foundation (eg linux foundation), or a pure foundation (cash intensive).
+
+Important things it should do: Own the moral rights to code, and own trademarks.
+
+##### A company
+
+I you need to evolve or want venture capital, being a company helps
+
+#### 5. where's the money?
+
+##### Bootstrap
+
+probably you're here, not paying yourself, big red flag. Not sustainable. Two ways to get out of this: set a timeout or make a plan to get paid. Maybe it's a hobby.
+
+Dishonourable thing to get paid for open source, which is a scam.
+
+##### Donations
+
+Not as much cash as you hope, but will get you stickers. Open collective, or github sponsors, or friends and family. Transparency is super important here. Community needs to be okay with this.
+
+Do make stickers.
+
+##### Sponsorships
+
+Leverage open source programs from companies who care. Digital Ocean / Netlify. Cal.com, or Github open source program.
+
+##### Grants
+
+You can apply for grants. Probably more work than they're worth, if you need to focus for a few months, could be a good idea. NGI, NLNET, Sovereign Tech Fund, Funding Box, [https://sploro.eu/cascade-funding](https://sploro.eu/cascade-funding).
+
+Grants are slow money, more money comes more problems. Who gets paid?
+
+##### OSS Tip / Revshare
+
+Convince people buying your services to optionally pay more for the open source you use. Like Humble Bundle, kinda like carbon offsets, scalar.
+
+##### Bounties
+
+This is money going back to the community, huge admin burden, way to grow the community and potentially recruit. algora.io
+
+##### Angles / VC
+
+Need a company, accounting and legal entity needed. SAFE, Office sponsorship, coaching.
+
+##### Venture
+
+The risk of a rugpull is even becoming a meme. What model can stick? Protect the source.
+
+OSS Capital, lightning ventures, speed invest, [awesome-oss-investors](https://github.com/octolens/awesome-oss-investors) (github page here).
+
+#### 6. Risks
+
+##### Burn out
+
+not taking time for yourself, losing the vision, infighting, too much bureaucracy. Pay attention to your health, watch for warning signs, talk to people regularly.
+
+##### Alienation
+
+Company -> people in the community will say "hey you're stealing from open source". Communicate better.
+
+##### Entitlement
+
+stay calm, be firm. Flip their anger to understanding.
+
+OSS is free, downstream must disclose, have community guidelines, reach out privately.
+
+Downstream must disclose: people aren't disclosing what libraries folks are using if they're not sharing code. It's a legal requirement to disclose an open source library.
+
+##### Regulations
+
+If you haven't heard about the cyber resilience act
+
+DSA, DMA, CRA, PLD, DORA, CE, etc...
+
+Some cases it does impact open source.
+
+#### Q&A: have you gotten pushback for taking money for projects
+
+The risk of taking money is moot point. Everybody has some money, they got it somehow. Honourable way: get money, provide value.
+
+#### Q&A: how do you avoid burnout?
+
+Block lunch break, go for walks, 4 day workweek, woodshop, family, cats, camera. Best I can do for myself, pay close attention to folks, reach out if worried.
+
+#### Q&A: when you deciding how to spend money from community, do you involve them, or just tell them?
+
+Have leftover money after trademark shenanigans, want bounties, so voting platform, using algora.io.
+
+#### Q&A: is there a short way to know if they apply to my oss project? 
+
+No
+
+#### Q&A: how to become a tenant in a foundation
+
+In a linux foundation, or commons conservancy: bring together people, write a charter, how they're going to be voted in, what their responsibilities are, that paper gets adopted by the foundation itself, and that's ... that?
