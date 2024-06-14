@@ -897,4 +897,104 @@ Atlassian is a remote first company now. It's 10k employees, the notion of being
 
 The glue that helps build a company happens in-person.
 
+### talk 3: beyond the feed: reshaping community in the digital era by saron yitbarek
 
+flatiron school in ny in 2013 the first time she encountered tech. code, fail, grow. good community. but bothered that that costs a lot of money. where was the community for folks who couldn't pay $$$?
+
+So she wanted to create comms: twitte chats: using hashtags at specified times, it was like a live group chat there.
+
+twitter chats: no cost, no physical limits, all you had to do was be awake and online, hashtag #codenewbie
+
+lots of cold and warm outreach to help the spread of #codenewbie. lot of folks did help. 
+
+Codenewbie became an entity / company: launched podcasts: codenewbie, basecs, plus the conference: codeland, and a newsletter, plus forum.
+
+home base was always twitter.
+
+Twitter then got eloned. Folks in response: revolt, left, but ... not the sale was the reason. Everything would be just inevitable.
+
+Tiktok's for you page were getting important.
+
+Can't _talk_ to them, can't _reach_ them, pretty much strangers. She missess the old feed.
+
+#### Where you call home is important
+
+borrowed audience is short term, you never know when the rules will change, rugs will be pulled.
+
+Social media platforms are no longer safe places to build online, it's good to spread the word
+
+Sold codenewbie in 2019, started DISCO.
+
+use skills and expertise to generate multiple streams of income. BCM - oh, big cash money!
+
+Jack Conte: death of the follower ted talk.
+
+Following: I wanna follow X, I get X as content
+
+Replaced by **The Feed**, which is ... not who you follow, but what keeps you engaged.
+
+Biggest regrets: content with meeting people where they were, but did not appreciate the risk that that posed: rules change, lose access. Did not build direct connection, a mailing list.
+
+seeding community is leveraging an audience. Borrowed audiences are too risky to rely on. Only folks who follow you on your ground.
+
+so started with folks on the newsletter, manual outreach. BCM had a business purpose.
+
+started BCM: start a campfire, a reason to come back.
+
+Monday async standups: this is what I wanna do
+friday feelings: how the week went, here's what I'm gonna do next week
+
+Step further, so discord.
+
+Hired a growth and accountability coach: job is to hang out with the members, and be a cheerleader.
+
+community, weekly events, coaching for free first BCM thingy.
+
+300 applications -> 35 people, so three cohorts (100 people?)
+
+metrics: participation, number of replies
+
+closed community: started at 100%, then declined
+quality of the participation: everyone came ALL the way. Nothing was off limits, covered everything both business and personal.
+
+#### The dip
+
+There was a dip, there was a feedback form, and folks filled it out. Expected scores to be low, but high overall satisfaction.
+
+So if the scores were high, why weren't people showing up? Wrong metric. Wrong way to look at communities.
+
+There was a core group of people doing the talking, but there's a larger circle of lurkers, and they're also part of the community. Community is not just the folks who _actively_ engage. Community is not just the people who engage. It's a space to participate. Lurking is a form of participating.
+
+Communities is not a group class where everyone does the same thing. It's a gym where people pick how and what and when to do.
+
+There's also _access_, maybe you don't go to the gym in June, because you're overwhelmed, but can't go, but you can go back when you're ready.
+
+If we're a gym, how do we make ourselves conducive to different kinds of gym members?
+
+That meant taking into account the lurkers. Missing link: content. Workshops, fireside chats, which is useful for lurkers.
+
+Cater to members' different engagement needs. who you consider a community member. The "disengaged" members are also community members.
+
+#### BCM is moving to a paid
+
+An email: relatively disengaged but really successful woman. Excited she was about paying! Signed up for an annual member.
+
+#### Two big takeaways
+
+Building the community on a social media platform is really risky. It can be ripped from you. They are borrowed, you need to ... move / own the community link.
+
+The community is not a group, it's a gym. Engagement will vary. Let people participate how they want, cater for them.
+
+Social media has destroyed ability to build communities, because The Algo.
+
+Communities are fragmented.
+
+Algorithmic feeds are here to stay, we hate it, but it works. Find communites in different, more private ways. Like-minded people will always find ways to connect.
+
+#### Q&A: do you think that small but high comms are the future?
+
+Yes, probably they'll win out in the end. Newsletter space there's still hope. Bullhorns to millions is largely done.
+
+#### Q&A: federated platforms like mastodon or discord?
+
+Most users don't care about the underlying technology, ultimately it doesn't matter where they are.
