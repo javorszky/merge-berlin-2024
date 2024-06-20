@@ -34,9 +34,9 @@ Met yahoo folks at a drinkup, and then they had an in to yahoo -> gave a talk at
 
 But building a startup that doesn't have a product market fit? sisyphian effort.
 
-#### Product market fit
+#### Product market fit
 
-**THE ONLY THING YOU SHOULD BE DOING IN YOUR STARTUP IF YOU DON'T HAVE PRODUCT MARKET FIT IS TO FIND A PRODUCT MARKET FIT**
+> THE ONLY THING YOU SHOULD BE DOING IN YOUR STARTUP IF YOU DON'T HAVE PRODUCT MARKET FIT IS TO FIND A PRODUCT MARKET FIT
 
 Idea about "virality". Decision around user / project to be first. User first, project second was the decision, and it was also super very important. Putting user first reduces barrier to entry (put up whatever project under your userspace whether it's useful or not).
 
@@ -62,7 +62,7 @@ Only hired people when they had the money to do so. Need to be efficient, becaus
 
 If you do have profitability, it gives you an insane amount of leverage against VCs. $100 mil first raise, they didn't _need_ to do that, therefore the VCs really wanna give you money. Write own term sheet, VCs can fill in the numbers.
 
-#### Superfans
+#### Superfans
 
 How to create GitHub superfans. How to surprise / delight / be weird / crazy about stuff. GitHub built a life sized oval office replica in a github office.
 
@@ -70,7 +70,7 @@ How to create GitHub superfans. How to surprise / delight / be weird / crazy abo
 
 customer story: customer was angry, displeased about something. One of the employees started badmouthing the customer, that was shut down really quick. Something is wrong, then your product is not good enough. Let's solve it, customer emailed: "I'm sorry I was an asshole" -> sometimes becomes superfan.
 
-#### Branding
+#### Branding
 
 Inspired by songbird. They had a character, a bird, doing things: farting always while doing things. Or the fail whale (twitter). So they went to images, to stock photo, and bought the original octocat for $5, octo puss. Super pixely, like 120x78? :D
 
@@ -78,7 +78,7 @@ Then started putting it on to stuff, decorating the octo cat. They hired full ti
 
 YouTube: digital ocean video on DO's account, but they have an octo cat sticker on the animated laptop :D. Tattoos of octo cats.
 
-#### Values
+#### Values
 
 It's not about branding, or github-the-corporation. They do it because getting a tat, or a sticker or whatever is a secret handshake, a declaration of values, a belonging, some commonality. If you (the audience) wear a github t-shirt, have a github sticker, why do you do this? What does it mean for people / users to identify with your brand? Octo cat - I know you, you're into open source, you're into development, you're into the same things that I am.
 
@@ -108,13 +108,13 @@ Powerset - natural language search engine. Ship things, and underperform, and lo
 
 Magic Leap - lots of money, lots of hype, but super undeerwhelming. They could never achieve what their marketing said.
 
-vs oculus: they had crappy slow versions, then iterated, they told users that these are dev versions, therefore not expect much. 
+vs oculus: they had crappy slow versions, then iterated, they told users that these are dev versions, therefore not expect much.
 
 Only company that can ship perfect stuff immediately is apple, because infinite money. "We invented a thing that changes the world forever, and you can buy it today!!" - hyped it for like 30 seconds.
 
 Vision Pro is weird, because they need to talk about things (maybe FCC req?) - but is it hyped?
 
-**REPUTATION ISN'T BUILT ON WHAT YOU'RE GOING TO DO, IT'S BUILT ON WHAT YOU DO**
+> REPUTATION ISN'T BUILT ON WHAT YOU'RE GOING TO DO, IT'S BUILT ON WHAT YOU DO
 
 #### Optimizing for happiness
 
@@ -198,7 +198,7 @@ Prometheus is an example: a LOT of companies rely on it for a lot of their reven
 
 (I kinda see NGINX here as one of this)
 
-#### How did you end up with functional source licence
+#### How did you end up with functional source licence
 
 Legal / illegal things? The only protection is just trademarks, which is very weak.
 
@@ -218,7 +218,7 @@ been good. fundamentalists are bad, because the practicality dies. they are loud
 
 library: you should have access to books, use it, but shouldn't reprint books and sell them.
 
-#### fair-source licence?
+#### fair-source licence?
 
 Launches soon, try to fix the open source footgun. ROI is marketing.
 
@@ -235,7 +235,6 @@ protip: do not use AI because it doesn't produce code, it gives you snippets -> 
 Use LLMs to use semantic matching. Fingerprinting erros, grouping the same kind together, etc, LLMs are good about this one. They are not _safe_, so you need to train the models on what you wanna do, but using them exposes the risk of exposing the training data. None of us want the business data exposed. Privacy is very very very important.
 
 Open source is wild west, a lot of things are called open source that aren't.
-
 
 ### talk 3: embracing the pivot: an engineering perspective on adaptability by cassidy williams
 
@@ -272,7 +271,7 @@ If it ain't broken, don't fix it, but sometimes it's broken under the surface an
 
 Pivoting is common: 1 in 3 startups does it.
 
-https://cass.run/pivots
+[https://cass.run/pivots](https://cass.run/pivots)
 
 Leny's Newsletter (TK - look it up)
 
@@ -318,7 +317,6 @@ This can be also about own projects:
 
 fill this out:
 
-
         |  like    | don't like
 good at | prioritize | optimize, don't do too much, automate
 not good at | learning | delegate, burnout happens here
@@ -335,13 +333,13 @@ Better ideas, better planning, better teammate, better founder. "Have to say no 
 
 The Ross gif came though.
 
-#### Q&A: signal / signal strength
+#### Q&A: signal / signal strength
 
 Difficult questions: user feedback is the strongest indicator. Users: is this something you actually pay for? Pushing towards? Like?
 
 Close second: team strengths. Works, but it's not our strengths, but we have to push through. VC said: shame you have to push through, it would be so much better if you played to your strengths... ok...
 
-#### Q&A: how to users deal with pivots?
+#### Q&A: how to users deal with pivots?
 
 Usually pivots because users aren't using it, so ... eh? Brainstory open source: wait, that was a good product, but I can use it, good for you!
 
@@ -357,7 +355,7 @@ AI is hype, hype will less
 
 Reused the audience, but still customers, because newsletter, "it's us again, hi!" if you're not interested, opt out, otherwise, go here, new stuff!
 
-### talk 4: leah culver: from startup to -> tech giant and <- back
+### talk 4: leah culver: from startup to -> tech giant and <- back
 
 former ios lead at X. maybe hot sauce challenge
 
@@ -375,7 +373,7 @@ because they came out from problems with pounce(?), made a public API because fo
 
 12 people came up with the spec, she came late into the game, she made the first open source library, an actual implementation about it. Taking from oauth -> oembed, adoption. Talk to a bunch of people who they wanted to implement these, and then co-build the things with then. Random convo with youtube person: "you should impmlement oembed" - "what is it?" - "this" - "oh sure, I'll do it"
 
-#### not a dev tool, why are you going for devs?
+#### not a dev tool, why are you going for devs?
 
 enablement! people want to interact with stuff
 
@@ -387,7 +385,7 @@ go to confs, meeting people in person, giving talks, starting newsletters, blogg
 
 tools have changed: discord for comms with devs, different conferences, but the underlying principle is the same: communication of ideas, getting people involved. Use the tools at your disposal: have a newsletter, have a community, somewhere folks can reach out.
 
-#### how honest are you with the community? 
+#### how honest are you with the community?
 
 if you think you made a mistake, do you tell them, or do you want to make your company look good? Tricky question: everyone's watching, but now it's more fessing up for things. Thanking people for contributing. Impressed how many people want to contribute to things that aren't theirs. "Thanks for paying attention so I don't need to do all of this!"
 
@@ -431,15 +429,15 @@ it depends on the context of what you're building, who you're building it to, bu
 
 no1 thing is network: batch, previous batch, new batch of fellow founders.
 
-#### how do you use the y comb network?
+#### how do you use the y comb network?
 
 beta testers are free! they're more likely to use a fellow y comb alum's stuff, honest feedback.
 
-#### solo founder? (at y comb)
+#### solo founder? (at y comb)
 
 Sure, "team" can be the royal "we".
 
-#### how did you find co-founders
+#### how did you find co-founders
 
 For pounce, they found her, she lied "yes I can build it!" and then she did.
 
@@ -451,7 +449,7 @@ Third co-founder from another conference.
 
 Spicy question: right now: swift iphone apps... ? The best tool for the job over the tool I know best.
 
-#### swift+apple: still good environment? their relationship with devs?
+#### swift+apple: still good environment? their relationship with devs?
 
 mixed, they're trying to be a great platform, but on the other side: 30% app store tax. She likes the restrictions, but understands that it's constrained. For ios it's more react native rather than swift. Cross-compatibility and ease of devving in react, or do you need to use native swift?
 
@@ -508,11 +506,11 @@ She launched a bunch of community programmes, there wasn't roi, because that's n
 
 Key early, or later is fine? Usually folks follow a playbook "this is when I need to launch a ____", whereas if you have authentic decisions, that's better because communities are different. Dir of community can be an engineer who's embedded into the community.
 
-#### key attribs for the person to do community?
+#### key attribs for the person to do community?
 
 empathy and authenticity. How do I design a programme based on how people are going to engage with it? Pandemic, at home, break concentration, so 20 minute talks, breaks, recorded... Also no techno, bright lights, at 9am. A brand is also a vibe.
 
-#### community vs devrel?
+#### community vs devrel?
 
 community with a capital c encompasses devrel, community (small c), etc... sometimes folks think it's just the tactics. At hashi it's a holistic view on how to engage with folks, and then you build programmes around it. devrel activities are different than what a community manager does
 
@@ -523,11 +521,11 @@ community with a capital c encompasses devrel, community (small c), etc... somet
 Education is key, it's important, great docs, tutorials, talks.
 Knowledge sharing is peer to peer. Get other people to talk about hashicorp. How folks use the tools you built? The meetups are useful for this.
 
-#### If you're a new company, getting started, which one should you focus on of the 5?
+#### If you're a new company, getting started, which one should you focus on of the 5?
 
 It's hard, because budget, resources, time... new relic had to give away 90% of the tickets because no one wanted to come, but vcs said you should make a user conference.
 
-#### early customers: how to get first key influencers
+#### early customers: how to get first key influencers
 
 series A in 2014: 2 years to get open source adoption. Then they didn't need to worry about monetization. Individual users - elegant tools for them, but commercial users had a different pain points.
 
@@ -662,7 +660,6 @@ meant to make the work easier, productive, delightful. Contributions, no matter 
 
 [maintainable.fm](https://maintainable.fm)
 
-
 #### Q&A: do you think oh my zsh helped zsh adoption leading to apple adopting zsh as default?
 
 Google trends. ZSH core devs don't like omz because folks confuse the two. It was surprising that apple announced zsh to be default. Don't think it _lead_ to this.
@@ -784,7 +781,7 @@ Wasn't their idea.
 
 1987 the origin, when they released keen 1990 as shareware, the publisher was a shareware pioneer (apogee). You need to have three games, in episodes, first episode as shareware, fully free, cliffhanger, so they want to buy the continuing. Today's Free to play is shareware, and mtx is the rest. Or DLC.
 
-##### Q&A: without vcs, how did you manage working on same things
+##### Q&A: without vcs, how did you manage working on same things
 
 Floppy disks, only 2 programmers, so when they were working on stuff, they worked on separate files. And then just talked and kept talking with each other.
 
@@ -810,7 +807,7 @@ To Slack: We wanna exit the chat thing from hipchat, we have customers where the
 
 They debated it internally for a couple of months. Atlassian wanted to, tried to get GitHub.
 
-#### Atlassian early days, similar trajectories, both bootstrapped, big rounds much later, didn't need it
+#### Atlassian early days, similar trajectories, both bootstrapped, big rounds much later, didn't need it
 
 Atlassian went IPO, GitHub went MS. How did the trajecotry come about? Came from Mike and Scott, founders of Atlassian, who've not worked in a different company, they founded it in college. The curiousity of "is this the best way"? Culture of "why are you doing it THAT way?" is it an always done it that way, or have you really thought about it? That culture led to processes, pricing...
 
@@ -905,7 +902,7 @@ So she wanted to create comms: twitte chats: using hashtags at specified times, 
 
 twitter chats: no cost, no physical limits, all you had to do was be awake and online, hashtag #codenewbie
 
-lots of cold and warm outreach to help the spread of #codenewbie. lot of folks did help. 
+lots of cold and warm outreach to help the spread of #codenewbie. lot of folks did help.
 
 Codenewbie became an entity / company: launched podcasts: codenewbie, basecs, plus the conference: codeland, and a newsletter, plus forum.
 
@@ -1125,7 +1122,7 @@ If you're considering starting a company:
 
 #### Q&A: how do you launch multiple times if you have one product
 
-The trial of error only works if you have multiple products. Gum is 20th, so they had 19 others to experiment with. 
+The trial of error only works if you have multiple products. Gum is 20th, so they had 19 others to experiment with.
 
 #### Q&A: how forgiving were users in the error of the trial and error?
 
@@ -1262,7 +1259,7 @@ Block lunch break, go for walks, 4 day workweek, woodshop, family, cats, camera.
 
 Have leftover money after trademark shenanigans, want bounties, so voting platform, using algora.io.
 
-#### Q&A: is there a short way to know if they apply to my oss project? 
+#### Q&A: is there a short way to know if they apply to my oss project?
 
 No
 
