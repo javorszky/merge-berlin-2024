@@ -1,2 +1,2 @@
 # merge-berlin-2024
-This holds the transcript / notes of the talks at Berlin MERGE Conference
+This holds the transcript / notes of the talks at Berlin MERGE Conference in [this file](merge.md).

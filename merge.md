@@ -4,7 +4,7 @@ Hell yeah merge conf berlin 13-14 june 2024.
 
 ## day 0
 
-met with @techknowlogick (cofounder of gitea), chatted about gitea, startups, oss stuff, pricing, ads, investment
+met with @techknowlogick (cofounder of CommitGo), chatted about gitea, startups, oss stuff, pricing, ads, investment
 
 ## day 1
 
